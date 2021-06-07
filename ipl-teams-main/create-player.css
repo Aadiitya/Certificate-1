@@ -1,0 +1,44 @@
+#add-player{
+    background-color: rgb(215, 228, 197);
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+
+#player-add-form{
+    width: 60%;
+    margin: 0 auto;
+}
+
+#player-add-form h1{
+    font-size: 32px;
+    width: 70%;
+    margin: 0 auto;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.input-data{
+    display: block;
+    background-color: rgb(118, 216, 195);
+    width: 70%;
+    margin: 25px auto;
+    font-size: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 4px;
+    align-items: center;
+}
+
+#submit-btn{
+    background-color: #f36f6f;
+    color: black;
+    font-weight: 600;
+    display: block;
+    width: 70%;
+    margin: 10px auto 0;
+    font-size: 16px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
